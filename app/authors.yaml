@@ -1,0 +1,24 @@
+---
+mistio-team:
+  full_name: Mist.io Team
+  profile_pic: /images/logos/m-author-logo.png
+  web: https://www.mist.io/
+  twitter: mist_io
+  github: mistio
+
+cpsaltis:
+  full_name: Christos Psaltis
+  profile_pic: https://avatars2.githubusercontent.com/u/646919
+  twitter: cpsaltis
+  github: cpsaltis
+
+dimo:
+  full_name: Dimitris Moraitis
+  profile_pic: https://avatars1.githubusercontent.com/u/1026101
+  twitter: d1_mo
+  github: d-mo
+
+xristina:
+  full_name: Christina Papakonstantinou
+  profile_pic: https://avatars1.githubusercontent.com/u/3228406
+  github: xristina

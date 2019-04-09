@@ -1,0 +1,381 @@
+---
+- title: "New features, performance and usability improvements in Mist v4.0"
+  path: "/blog/2019-04-05-mist-v4"
+  published: 2019-04-05
+  author: cpsaltis  
+  description: ""
+- title: "SevOne revamps Self Service DevOps to move faster and save money"
+  path: "/blog/2018-12-12-sevone-self-service-devops"
+  published: 2018-12-12
+  author: cpsaltis
+  description: ""
+- title: "Block storage, new KVM and vSphere features"
+  path: "/blog/2018-10-23-mist-v3-3"
+  published: 2018-10-23
+  author: cpsaltis 
+  description: ""
+- title: "The case for cloud neutrality"
+  path: "/blog/2018-06-07-cloud-neutrality"
+  published: 2018-06-07
+  author: dimo  
+  description: ""
+- title: "Mist operator for Red Hat OpenShift Container Platform"
+  path: "/blog/2018-05-08-kubernetes-operator-for-red-hat-openshift"
+  published: 2018-05-08
+  author: mistio-team  
+  description: ""
+- title: "Mist v3 released, featuring rules on groups of resources and monitoring with InfluxDB - also available on-prem"
+  path: "/blog/2018-04-29-mistio-v3"
+  published: 2018-04-29
+  author: mistio-team  
+  description: ""
+- title: "Our biggest Mist.io open source release yet"
+  path: "/blog/2017-06-21-our-biggest-mistio-open-source-release-yet"
+  published: 2017-06-21
+  author: mistio-team  
+  description: ""
+- title: "How to drive down dev infra cost by 60% (or more)"
+  path: "/blog/2017-02-25-how-to-drive-down-dev-infra-cost-by-60-or-more"
+  published: 2017-02-25
+  author: mistio-team  
+  description: ""
+- title: "Kubernetes basics & monitoring: webinar wrap-up"
+  path: "/blog/2016-12-07-kubernetes-basics-monitoring-webinar-wrap-up"
+  published: 2016-12-07
+  author: mistio-team  
+  description: ""
+- title: "Migrating to microservices webinar wrap-up"
+  path: "/blog/2016-10-27-migrating-to-microservices-webinar-wrap-up"
+  published: 2016-10-27
+  author: mistio-team  
+  description: ""
+- title: "Managing virtual private clouds (VPCs) in protected networks using VPN"
+  path: "/blog/2016-08-04-managing-virtual-private-clouds-vpcs-in"
+  published: 2016-08-04
+  author: mistio-team  
+  description: ""
+- title: "Real time cost reporting"
+  path: "/blog/2016-07-14-real-time-cost-reporting"
+  published: 2016-07-14
+  author: mistio-team  
+  description: ""
+- title: "How to setup self-service provisioning for multi-clouds"
+  path: "/blog/2016-05-02-how-to-setup-self-service-provisioning-for"
+  published: 2016-05-02
+  author: mistio-team  
+  description: ""
+- title: "Cloudify as a Service"
+  path: "/blog/2016-04-25-cloudify-as-a-service"
+  published: 2016-04-25
+  author: mistio-team  
+  description: ""
+- title: "RBAC Private Beta"
+  path: "/blog/2016-04-12-rbac-private-beta"
+  published: 2016-04-12
+  author: mistio-team  
+  description: ""
+- title: "Launching and managing a bare metal server running Docker in a few minutes"
+  path: "/blog/2016-01-14-launching-and-managing-a-bare-metal-server-running"
+  published: 2016-01-14
+  author: mistio-team  
+  description: ""
+- title: "Crushing the monoliths with Kubernetes and CoreOS"
+  path: "/blog/2015-12-15-crushing-the-monoliths-with-kubernetes-and-coreos"
+  published: 2015-12-15
+  author: mistio-team  
+  description: ""
+- title: "A developer’s guide to writing newsletter and email templates"
+  path: "/blog/2015-10-20-a-developers-guide-to-writing-newsletter-and"
+  published: 2015-10-20
+  author: mistio-team  
+  description: ""
+- title: "New Mist.io interface: Faster and optimized for large installations"
+  path: "/blog/2015-10-13-new-mistio-interface-faster-and-optimized-for"
+  published: 2015-10-13
+  author: mistio-team  
+  description: ""
+- title: "JavaScript MVC showdown: AngularJS vs EmberJS"
+  path: "/blog/2015-07-31-javascript-mvc-showdown-angularjs-vs-emberjs"
+  published: 2015-07-31
+  author: mistio-team  
+  description: ""
+- title: "Using Mist.io with your Github or Google account"
+  path: "/blog/2015-07-16-using-mistio-with-your-github-or-google-account"
+  published: 2015-07-16
+  author: mistio-team  
+  description: ""
+- title: "Customer Spotlight: Scaling your business with Book’n’Bloom"
+  path: "/blog/2015-07-14-customer-spotlight-scaling-your-business-with"
+  published: 2015-07-14
+  author: mistio-team  
+  description: ""
+- title: "Using a proxy to gather monitoring data in restrictive environments"
+  path: "/blog/2015-07-06-using-a-proxy-to-gather-monitoring-data-in"
+  published: 2015-07-06
+  author: mistio-team  
+  description: ""
+- title: "Manage and monitor your vSphere private cloud along with the rest of your infrastructure"
+  path: "/blog/2015-05-28-manage-and-monitor-your-vsphere-private-cloud"
+  published: 2015-05-28
+  author: mistio-team  
+  description: ""
+- title: "Setting up multi-cloud monitoring and automation in five minutes"
+  path: "/blog/2015-05-12-setting-up-multi-cloud-monitoring-and-automation"
+  published: 2015-05-12
+  author: mistio-team  
+  description: ""
+- title: "Interview with a Veteran Software Technologist: Cloud and Success Outside of Silicon Valley"
+  path: "/blog/2015-05-06-interview-with-a-veteran-software-technologist"
+  published: 2015-05-06
+  author: mistio-team  
+  description: ""
+- title: "Adding a new provider in Mist.io: The Host Virtual Case"
+  path: "/blog/2015-04-24-adding-a-new-provider-in-mistio-the-host-virtual"
+  published: 2015-04-24
+  author: mistio-team  
+  description: ""
+- title: "5 Monitoring and Logging Best Practices in a Multi-Cloud Environment"
+  path: "/blog/2015-04-14-5-monitoring-and-logging-best-practices-in-a"
+  published: 2015-04-14
+  author: mistio-team  
+  description: ""
+- title: "Mist.io goes to Indonesia"
+  path: "/blog/2015-03-20-mistio-goes-to-indonesia"
+  published: 2015-03-20
+  author: mistio-team  
+  description: ""
+- title: "Announcing KVM and vCloud support"
+  path: "/blog/2015-02-18-announcing-kvm-and-vcloud-support"
+  published: 2015-02-18
+  author: mistio-team  
+  description: ""
+- title: "Improving Ember.js performance. Part 1: Separating the templates"
+  path: "/blog/2014-12-22-improving-emberjs-performance-part-1-separating"
+  published: 2014-12-22
+  author: mistio-team  
+  description: ""
+- title: "A review of Microsoft Azure’s API"
+  path: "/blog/2014-12-04-a-review-of-microsoft-azures-api"
+  published: 2014-12-04
+  author: mistio-team  
+  description: ""
+- title: "Announcing support for Microsoft Azure"
+  path: "/blog/2014-11-25-announcing-support-for-microsoft-azure"
+  published: 2014-11-25
+  author: mistio-team  
+  description: ""
+- title: "Checking your infrastructure’s health at a glance"
+  path: "/blog/2014-11-20-checking-your-infrastructures-health-at-a-glance"
+  published: 2014-11-20
+  author: mistio-team  
+  description: ""
+- title: "Using the Cloud to help progressive Congressional Candidates and fight for Net Neutrality"
+  path: "/blog/2014-11-12-using-the-cloud-to-help-progressive-congressional"
+  published: 2014-11-12
+  author: mistio-team  
+  description: ""
+- title: "OpenStack Summit recap: It’s all about scalability and NFV"
+  path: "/blog/2014-11-05-openstack-summit-recap-its-all-about-scalability"
+  published: 2014-11-05
+  author: mistio-team  
+  description: ""
+- title: "Beyond Horizon: Mist.io in the OpenStack Paris Summit"
+  path: "/blog/2014-10-29-beyond-horizon-mistio-in-the-openstack-paris"
+  published: 2014-10-29
+  author: mistio-team  
+  description: ""
+- title: "Anatomy of a Shellshock botnet"
+  path: "/blog/2014-10-23-anatomy-of-a-shellshock-botnet"
+  published: 2014-10-23
+  author: mistio-team  
+  description: ""
+- title: "Navigating the Cloud with Captainwise"
+  path: "/blog/2014-10-16-navigating-the-cloud-with-captainwise"
+  published: 2014-10-16
+  author: mistio-team  
+  description: ""
+- title: "First look at Digital Ocean’s new API"
+  path: "/blog/2014-10-09-first-look-at-digital-oceans-new-api"
+  published: 2014-10-09
+  author: mistio-team  
+  description: ""
+- title: "Open-source multi cloud orchestration with Mist.io and Ansible"
+  path: "/blog/2014-09-25-open-source-multi-cloud-orchestration-with-mistio"
+  published: 2014-09-25
+  author: mistio-team  
+  description: ""
+- title: "One UI to rule them all: Manage your Docker containers along with your servers and VMs"
+  path: "/blog/2014-09-03-one-ui-to-rule-them-all-manage-your-docker"
+  published: 2014-09-03
+  author: mistio-team  
+  description: ""
+- title: "Build your own Pingdom to measure load time from any location"
+  path: "/blog/2014-07-31-build-your-own-pingdom"
+  published: 2014-07-31
+  author: mistio-team  
+  description: ""
+- title: "Servers don’t respect vacation plans"
+  path: "/blog/2014-07-18-servers-dont-respect-vacation-plans"
+  published: 2014-07-18
+  author: mistio-team  
+  description: ""
+- title: "Monitor everything from anywhere! Introducing custom metrics through Mist.io"
+  path: "/blog/2014-07-08-monitor-everything-from-anywhere-introducing"
+  published: 2014-07-08
+  author: mistio-team  
+  description: ""
+- title: "Monitoring Amazon Virtual Private Cloud instances with Mist.io"
+  path: "/blog/2014-06-16-monitoring-amazon-virtual-private-cloud-instances"
+  published: 2014-06-16
+  author: mistio-team  
+  description: ""
+- title: "Hybrid and multicloud on the rise: An interview with George Karidis, Chief Strategy Officer at SoftLayer"
+  path: "/blog/2014-06-11-hybrid-and-multicloud-on-the-rise-an-interview"
+  published: 2014-06-11
+  author: mistio-team  
+  description: ""
+- title: "Reducing CPU load in D3.js transitions"
+  path: "/blog/2014-05-27-reducing-cpu-load-in-d3js-transitions"
+  published: 2014-05-27
+  author: mistio-team  
+  description: ""
+- title: "A pledge by Mist.io"
+  path: "/blog/2014-05-16-a-pledge-by-mistio"
+  published: 2014-05-16
+  author: mistio-team  
+  description: ""
+- title: "Migrating from ScaleXtreme to Mist.io"
+  path: "/blog/2014-05-15-migrating-from-scalextreme-to-mistio"
+  published: 2014-05-15
+  author: mistio-team  
+  description: ""
+- title: "Cloud is not a one-size fits all solution. An interview with Jonathan Siegel from Rackspace"
+  path: "/blog/2014-04-29-cloud-is-not-a-one-size-fits-all-solution-an"
+  published: 2014-04-29
+  author: mistio-team  
+  description: ""
+- title: "Announcing Google Compute Engine Support"
+  path: "/blog/2014-04-14-announcing-google-compute-engine-support"
+  published: 2014-04-14
+  author: mistio-team  
+  description: ""
+- title: "Move fast and don’t break things!  Testing with Jenkins, Ansible and Docker"
+  path: "/blog/2014-04-11-move-fast-and-dont-break-things-testing-with"
+  published: 2014-04-11
+  author: mistio-team  
+  description: ""
+- title: "Mist.io Security Announcement"
+  path: "/blog/2014-04-09-mistio-security-announcement"
+  published: 2014-04-09
+  author: mistio-team  
+  description: ""
+- title: "Announcing custom SSH ports and manual installation of monitoring"
+  path: "/blog/2014-04-01-announcing-custom-ssh-ports-and-manual"
+  published: 2014-04-01
+  author: mistio-team  
+  description: ""
+- title: "Athens: An emerging startup scene in the midst of the Greek crisis"
+  path: "/blog/2014-03-26-athens-an-emerging-startup-scene-in-the-midst-of"
+  published: 2014-03-26
+  author: mistio-team  
+  description: ""
+- title: "Dissecting the new Mist.io graphs"
+  path: "/blog/2014-03-19-dissecting-the-new-mistio-graphs"
+  published: 2014-03-19
+  author: mistio-team  
+  description: ""
+- title: "Mist.io is now faster than ever!"
+  path: "/blog/2014-03-12-mistio-is-now-faster-than-ever"
+  published: 2014-03-12
+  author: mistio-team  
+  description: ""
+- title: "Building a mobile-friendly web app using Ember.js and jQuery Mobile"
+  path: "/blog/2014-03-06-building-a-mobile-friendly-web-app-using-emberjs"
+  published: 2014-03-06
+  author: mistio-team  
+  description: ""
+- title: "Setting up monitoring and alerting for your servers in 5 simple steps"
+  path: "/blog/2014-02-27-setting-up-monitoring-and-alerting-for-your"
+  published: 2014-02-27
+  author: mistio-team  
+  description: ""
+- title: "Getting to 100% uptime on public cloud. An interview with Telemachus Luu, CTO @ NephoScale"
+  path: "/blog/2014-02-06-getting-to-100-uptime-on-public-cloud-an"
+  published: 2014-02-06
+  author: mistio-team  
+  description: ""
+- title: "Storing user passwords safely in the database"
+  path: "/blog/2014-01-30-storing-user-passwords-safely-in-the-database"
+  published: 2014-01-30
+  author: mistio-team  
+  description: ""
+- title: "PaaS is a blessing, not a curse. An interview with DigitalOcean’s Chief Technology"
+  path: "/blog/2014-01-21-paas-is-a-blessing-not-a-curse-an-interview-with"
+  published: 2014-01-21
+  author: mistio-team  
+  description: ""
+- title: "Set up your own OpenStack Havana in 10 minutes"
+  path: "/blog/2014-01-15-set-up-your-own-openstack-havana-in-10-minutes"
+  published: 2014-01-15
+  author: mistio-team  
+  description: ""
+- title: "Early Xmas present: Bare metal server support in Mist.io"
+  path: "/blog/2013-12-23-early-xmas-present-bare-metal-server-support-in"
+  published: 2013-12-23
+  author: mistio-team  
+  description: ""
+- title: "EU Parliament adopts resolution to set standards for cloud interoperability"
+  path: "/blog/2013-12-19-eu-parliament-adopts-resolution-to-set-standards"
+  published: 2013-12-19
+  author: mistio-team  
+  description: ""
+- title: "IT departments turning to cloud servers to reduce expenses"
+  path: "/blog/2013-12-11-it-departments-turning-to-cloud-servers-to-reduce"
+  published: 2013-12-11
+  author: mistio-team  
+  description: ""
+- title: "How to create a libcloud driver from scratch: the NephoScale case"
+  path: "/blog/2013-11-18-how-to-create-a-libcloud-driver-from-scratch"
+  published: 2013-11-18
+  author: mistio-team  
+  description: ""
+- title: "Sometimes, innovation can be found where you least expect it."
+  path: "/blog/2013-11-12-sometimes-innovation-can-be-found-where-you-least"
+  published: 2013-11-12
+  author: mistio-team  
+  description: ""
+- title: "Mist.io Public Beta Now Available!"
+  path: "/blog/2013-11-05-mistio-public-beta-now-available"
+  published: 2013-11-05
+  author: mistio-team  
+  description: ""
+- title: "Mist.io at EuroPython: Sprinting"
+  path: "/blog/2013-07-10-mistio-at-europython-sprinting"
+  published: 2013-07-10
+  author: mistio-team  
+  description: ""
+- title: "Mist.io at EuroPython 2013: Day 3"
+  path: "/blog/2013-07-04-mistio-at-europython-2013-day-3"
+  published: 2013-07-04
+  author: mistio-team  
+  description: ""
+- title: "Mist.io at EuroPython 2013: Day 2"
+  path: "/blog/2013-07-03-mistio-at-europython-2013-day-2"
+  published: 2013-07-03
+  author: mistio-team  
+  description: ""
+- title: "Mist.io at EuroPython 2013: Day 1"
+  path: "/blog/2013-07-01-mistio-at-europython-2013-day-1"
+  published: 2013-07-01
+  author: mistio-team  
+  description: ""
+- title: "Mist.io is amongst the top 12 tech start-ups in Europe: recap from Berlin"
+  path: "/blog/2013-06-14-mistio-is-amongst-the-top-12-tech-start-ups-in"
+  published: 2013-06-14
+  author: mistio-team  
+  description: ""
+- title: "Mist.io in Private Beta"
+  path: "/blog/2013-04-25-mistio-in-private-beta"
+  published: 2013-04-25
+  author: mistio-team  
+  description: ""
