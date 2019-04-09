@@ -1,0 +1,88 @@
+# Unconditionally redirects the first URL to the second. 
+# Wildcards ending in *: redirects all paths matching the prefix, 
+# replacing the prefix with the second path. 
+
+- /post/48844669485/* /blog/2013-04-25-mistio-in-private-beta 
+- /post/52943612390/* /blog/2013-06-14-mistio-is-amongst-the-top-12-tech-start-ups-in 
+- /post/54361153503/* /blog/2013-07-01-mistio-at-europython-2013-day-1 
+- /post/54525713124/* /blog/2013-07-03-mistio-at-europython-2013-day-2 
+- /post/54591876444/* /blog/2013-07-04-mistio-at-europython-2013-day-3 
+- /post/55073795772/* /blog/2013-07-10-mistio-at-europython-sprinting 
+- /post/66094970492/* /blog/2013-11-05-mistio-public-beta-now-available 
+- /post/66787008521/* /blog/2013-11-12-sometimes-innovation-can-be-found-where-you-least 
+- /post/67366170830/* /blog/2013-11-18-how-to-create-a-libcloud-driver-from-scratch 
+- /post/69689088336/* /blog/2013-12-11-it-departments-turning-to-cloud-servers-to-reduce 
+- /post/70473372408/* /blog/2013-12-19-eu-parliament-adopts-resolution-to-set-standards 
+- /post/70907345253/* /blog/2013-12-23-early-xmas-present-bare-metal-server-support-in 
+- /post/73402239574/* /blog/2014-01-15-set-up-your-own-openstack-havana-in-10-minutes 
+- /post/74055070351/* /blog/2014-01-21-paas-is-a-blessing-not-a-curse-an-interview-with 
+- /post/75060934180/* /blog/2014-01-30-storing-user-passwords-safely-in-the-database 
+- /post/75804062301/* /blog/2014-02-06-getting-to-100-uptime-on-public-cloud-an 
+- /post/77999688959/* /blog/2014-02-27-setting-up-monitoring-and-alerting-for-your 
+- /post/78757774060/* /blog/2014-03-06-building-a-mobile-friendly-web-app-using-emberjs 
+- /post/79356179972/* /blog/2014-03-12-mistio-is-now-faster-than-ever 
+- /post/80079597818/* /blog/2014-03-19-dissecting-the-new-mistio-graphs 
+- /post/80789246171/* /blog/2014-03-26-athens-an-emerging-startup-scene-in-the-midst-of 
+- /post/81387950498/* /blog/2014-04-01-announcing-custom-ssh-ports-and-manual 
+- /post/82212504866/* /blog/2014-04-09-mistio-security-announcement 
+- /post/82383668190/* /blog/2014-04-11-move-fast-and-dont-break-things-testing-with 
+- /post/82699931164/* /blog/2014-04-14-announcing-google-compute-engine-support
+- /post/84228473286/* /blog/2014-04-29-cloud-is-not-a-one-size-fits-all-solution-an
+- /post/85822051951/* /blog/2014-05-15-migrating-from-scalextreme-to-mistio
+- /post/85917952751/* /blog/2014-05-16-a-pledge-by-mistio
+- /post/87007749461/* /blog/2014-05-27-reducing-cpu-load-in-d3js-transitions
+- /post/88459585041/* /blog/2014-06-11-hybrid-and-multicloud-on-the-rise-an-interview
+- /post/88938984326/* /blog/2014-06-16-monitoring-amazon-virtual-private-cloud-instances
+- /post/90766645046/* /blog/2014-07-08-monitor-everything-from-anywhere-introducing
+- /post/92134718021/* /blog/2014-07-18-servers-dont-respect-vacation-plans
+- /post/93413334586/* /blog/2014-07-31-build-your-own-pingdom
+- /post/96542374356/* /blog/2014-09-03-one-ui-to-rule-them-all-manage-your-docker
+- /post/98392661806/* /blog/2014-09-25-open-source-multi-cloud-orchestration-with-mistio
+- /post/99488119976/* /blog/2014-10-09-first-look-at-digital-oceans-new-api
+- /post/100147293981/* /blog/2014-10-16-navigating-the-cloud-with-captainwise
+- /post/100582053116/* /blog/2014-10-23-anatomy-of-a-shellshock-botnet
+- /post/101254249666/* /blog/2014-10-29-beyond-horizon-mistio-in-the-openstack-paris
+- /post/101835854296/* /blog/2014-11-05-openstack-summit-recap-its-all-about-scalability
+- /post/102448134541/* /blog/2014-11-12-using-the-cloud-to-help-progressive-congressional
+- /post/103129381511/* /blog/2014-11-20-checking-your-infrastructures-health-at-a-glance
+- /post/103543949091/* /blog/2014-11-25-announcing-support-for-microsoft-azure
+- /post/104331766626/* /blog/2014-12-04-a-review-of-microsoft-azures-api
+- /post/105872826186/* /blog/2014-12-22-improving-emberjs-performance-part-1-separating
+- /post/110890044256/* /blog/2015-02-18-announcing-kvm-and-vcloud-support
+- /post/114142539111/* /blog/2015-03-20-mistio-goes-to-indonesia
+- /post/116366091166/* /blog/2015-04-14-5-monitoring-and-logging-best-practices-in-a
+- /post/117233356986/* /blog/2015-04-24-adding-a-new-provider-in-mistio-the-host-virtual
+- /post/118275700661/* /blog/2015-05-06-interview-with-a-veteran-software-technologist
+- /post/118774980111/* /blog/2015-05-12-setting-up-multi-cloud-monitoring-and-automation
+- /post/120109600431/* /blog/2015-05-28-manage-and-monitor-your-vsphere-private-cloud
+- /post/123024233456/* /blog/2015-07-06-using-a-proxy-to-gather-monitoring-data-in
+- /post/124060772701/* /blog/2015-07-14-customer-spotlight-scaling-your-business-with
+- /post/124229027271/* /blog/2015-07-16-using-mistio-with-your-github-or-google-account
+- /post/125506672521/* /blog/2015-07-31-javascript-mvc-showdown-angularjs-vs-emberjs
+- /post/131085224931/* /blog/2015-10-13-new-mistio-interface-faster-and-optimized-for
+- /post/131088493091/* /blog/2015-10-20-a-developers-guide-to-writing-newsletter-and
+- /post/135245723876/* /blog/2015-12-15-crushing-the-monoliths-with-kubernetes-and-coreos
+- /post/135389284061/* /blog/2016-01-14-launching-and-managing-a-bare-metal-server-running
+- /post/142694647046/* /blog/2016-04-12-rbac-private-beta
+- /post/143342560136/* /blog/2016-04-25-cloudify-as-a-service
+- /post/143742943766/* /blog/2016-05-02-how-to-setup-self-service-provisioning-for
+- /post/147401956206/* /blog/2016-07-14-real-time-cost-reporting
+- /post/148444184131/* /blog/2016-08-04-managing-virtual-private-clouds-vpcs-in
+- /post/152363654471/* /blog/2016-10-27-migrating-to-microservices-webinar-wrap-up
+- /post/154168400056/* /blog/2016-12-07-kubernetes-basics-monitoring-webinar-wrap-up
+- /post/157671715281/* /blog/2017-02-25-how-to-drive-down-dev-infra-cost-by-60-or-more
+- /post/162083041316/* /blog/2017-06-21-our-biggest-mistio-open-source-release-yet
+- /post/174885732311/* /blog/2018-04-29-mistio-v3
+- /post/176017773261/* /blog/2018-05-08-kubernetes-operator-for-red-hat-openshift
+- /post/176018246846/* /blog/2018-06-07-cloud-neutrality
+- /post/180795891046/* /blog/2018-10-23-mist-v3-3
+- /post/181048600501/* /blog/2018-12-12-sevone-self-service-devops
+- /post/183964521106/* /blog/2019-04-05-mist-v4
+
+- /post /blog
+
+# ------------------------------------------------------------------------------
+# Note: keep these for the tests!
+- /oldpage/ /
+- /some/page/that/is/old.html /1.0/
+
