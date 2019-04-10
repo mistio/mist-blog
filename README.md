@@ -20,7 +20,7 @@ standard environment. Before you start you'll need the following prerequisites:
 
 Set up your repo:
 
-    git clone 
+    git clone git@github.com:mistio/mist.blog.git
     cd docs
     npm install
 
