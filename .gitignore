@@ -1,0 +1,8 @@
+.DS_STORE
+
+# Generated files/folders
+*.pyc
+dist
+
+# Dev directories
+/node_modules
